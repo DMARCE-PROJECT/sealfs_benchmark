@@ -1,0 +1,9 @@
+Usage,WakeUps,Process ID,Process ,Pw Estimate
+4.8,0.08,[PID 8272] [sealfs] ,[sealfs] ,501
+4.5,0.08,[PID 9391] [sealfs] ,[sealfs] ,493
+4.1,0.07,[PID 9549] [sealfs] ,[sealfs] ,444
+3.4,0.06,[PID 9023] [sealfs] ,[sealfs] ,398
+4,0.06,[PID 9410] [sealfs] ,[sealfs] ,394
+3.8,0.05,[PID 9956] [sealfs] ,[sealfs] ,313
+5.2,0.03,[PID 11047] [sealfs] ,[sealfs] ,201
+2.4,0.03,[PID 9044] [sealfs] ,[sealfs] ,171
