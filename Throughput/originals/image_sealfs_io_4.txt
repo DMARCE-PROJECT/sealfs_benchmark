@@ -1,0 +1,1467 @@
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        55.62 K/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       0.00 B/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+   3320 be/4 pal         0.00 B/s   55.62 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        11.77 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.56 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.45 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   11.73 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.90 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     225.22 K/s
+    573 be/3 root        0.00 B/s   15.01 K/s  0.00 %  0.21 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  131.38 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.75 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   30.03 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.71 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.97 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   41.40 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.92 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1798.98 K/s
+ 289732 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.45 % [kworker/u16:0-events_unbound]
+    546 be/3 root        0.00 B/s   22.44 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.74 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   44.88 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    7.48 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.48 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.74 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.33 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.53 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.49 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   93.58 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   26.20 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.49 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.74 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.74 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.21 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      88.03 K/s
+    573 be/3 root        0.00 B/s   11.00 K/s  0.00 %  0.14 % [jbd2/sda5-8]
+   3320 be/4 pal         0.00 B/s   33.01 K/s  0.00 %  0.07 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   8699 be/4 pal         0.00 B/s    3.67 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.34 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9071 be/4 pal         0.00 B/s    3.67 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s    8.15 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.18 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.32 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   14.63 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.32 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.16 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.56 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.52 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   79.00 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   30.10 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.44 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.47 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      55.73 K/s
+    546 be/3 root        0.00 B/s    3.72 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  107.74 K/s  0.00 %  0.00 % systemd-journald
+   9490 be/4 pal         0.00 B/s    3.72 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   29.72 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.72 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.43 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.32 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.72 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.16 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.27 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [sealfs]
+   3320 be/4 pal         0.00 B/s   43.65 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8944 be/4 pal         0.00 B/s    3.64 K/s  0.00 %  0.00 % python /opt/pal/gallium/lib/power_status_analyzer/power_status_analyzer_node.py
+   8998 be/4 pal         0.00 B/s    7.27 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9071 be/4 pal         0.00 B/s    3.64 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.11 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.20 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     215.09 K/s
+    573 be/3 root        0.00 B/s   10.94 K/s  0.00 %  0.17 % [jbd2/sda5-8]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   36.46 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.65 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s   14.58 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.13 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.63 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.74 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.58 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.45 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.52 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   45.13 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.80 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1181.99 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.36 % [kworker/u16:2-events_unbound]
+    546 be/3 root        0.00 B/s    3.72 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+    341 be/3 root        0.00 B/s  468.34 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.72 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   29.74 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.43 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.30 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.46 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.50 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   45.01 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.49 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      67.88 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.14 % [jbd2/sda5-8]
+   9071 be/4 pal         0.00 B/s    0.00 B/s  0.00 %  0.07 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+   3320 be/4 pal         0.00 B/s   30.17 K/s  0.00 %  0.07 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.46 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.51 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   45.23 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.45 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.75 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      37.73 K/s
+    546 be/3 root        0.00 B/s    3.77 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   52.82 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.68 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.85 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      37.73 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  101.86 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.77 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   7898 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   41.50 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.69 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        12.21 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     203.48 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.18 % [jbd2/sda5-8]
+   1746 be/4 _graphit    0.00 B/s 1217.10 K/s  0.00 %  0.11 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  320.29 K/s  0.00 %  0.00 % systemd-journald
+   1370 be/4 www-data    0.00 B/s    3.77 K/s  0.00 %  0.00 % apache2 -k start
+   1747 be/4 _graphit    0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   33.91 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   6181 be/4 pal         0.00 B/s   22.61 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//statsdcc.pal.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.63 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.66 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.86 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   7528 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//mm11.pal.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.61 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.61 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.49 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    7.49 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   29.95 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.74 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.49 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.56 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.68 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1371.74 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.47 % [kworker/u16:2-events_unbound]
+    546 be/3 root        0.00 B/s   26.16 K/s  0.00 %  0.20 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   82.23 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   26.16 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.48 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.74 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.54 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.74 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.51 K/s
+ 381531 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.03 % [sealfs]
+    341 be/3 root        0.00 B/s   97.59 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.75 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   41.29 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.59 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.81 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     224.88 K/s
+    573 be/3 root        0.00 B/s  202.39 K/s  0.00 %  0.18 % [jbd2/sda5-8]
+   3320 be/4 pal         0.00 B/s   29.98 K/s  0.00 %  0.11 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.10 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.03 % [sealfs]
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.57 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.61 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      14.99 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.24 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s   14.99 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.57 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.48 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.51 K/s
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.03 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.27 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.44 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.93 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     107.85 M/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 % 18.07 % [kworker/u16:2+flush-8:0]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.97 % [sealfs]
+   8998 be/4 pal         0.00 B/s    7.49 K/s  0.00 %  0.23 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.13 % [jbd2/sda6-8]
+   3320 be/4 pal         0.00 B/s   44.96 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s    9.87 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.05 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     236.73 M/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 % 47.68 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.77 % [sealfs]
+    341 be/3 root        0.00 B/s  120.60 K/s  0.00 %  0.00 % systemd-journald
+   1746 be/4 _graphit    0.00 B/s 1089.19 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   33.92 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    7.82 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.18 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     200.03 K/s
+    573 be/3 root        0.00 B/s  113.23 K/s  0.00 %  0.37 % [jbd2/sda5-8]
+   1746 be/4 _graphit    0.00 B/s  135.87 K/s  0.00 %  0.27 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.03 % [sealfs]
+    341 be/3 root        0.00 B/s  105.68 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   33.97 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.79 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.66 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.42 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.34 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.39 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.71 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.42 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.62 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.83 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.56 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.10 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   30.22 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.79 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.96 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      78.77 K/s
+    546 be/3 root        0.00 B/s   33.76 K/s  0.00 %  0.43 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.10 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.76 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.89 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.32 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1338.73 K/s
+ 289732 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [kworker/u16:0-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+    341 be/3 root        0.00 B/s  100.40 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   14.87 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    7.44 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.44 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.72 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s    8.19 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.58 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     136.11 K/s
+    573 be/3 root        0.00 B/s   41.59 K/s  0.00 %  0.16 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.53 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.53 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   11.32 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.51 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.43 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   18.85 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.66 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      33.99 K/s
+    546 be/3 root        0.00 B/s   18.88 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+    341 be/3 root        0.00 B/s   98.19 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.78 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   1747 be/4 _graphit    0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   15.11 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.52 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.51 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      22.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   9490 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   30.05 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9071 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.46 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.57 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     203.89 K/s
+    573 be/3 root        0.00 B/s    7.55 K/s  0.00 %  0.18 % [jbd2/sda5-8]
+   8699 be/4 pal         0.00 B/s    0.00 B/s  0.00 %  0.10 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.98 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.52 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.55 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.91 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+   9071 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.49 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.67 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      49.08 K/s
+    546 be/3 root        0.00 B/s    7.55 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   18.88 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   41.53 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s   15.10 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.59 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.76 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1341.56 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.39 % [kworker/u16:2-events_unbound]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  117.15 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   37.79 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.60 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.53 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      64.21 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.14 % [jbd2/sda5-8]
+   3320 be/4 pal         0.00 B/s   37.77 K/s  0.00 %  0.07 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    0.00 B/s  0.00 %  0.07 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.48 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.98 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.38 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.52 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   41.52 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.47 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.45 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      37.47 K/s
+    546 be/3 root        0.00 B/s    3.75 K/s  0.00 %  0.07 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.72 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.49 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.88 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     353.11 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.09 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  459.78 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   40.46 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8944 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % python /opt/pal/gallium/lib/power_status_analyzer/power_status_analyzer_node.py
+   8998 be/4 pal         0.00 B/s    7.36 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.37 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.68 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.16 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     202.41 K/s
+    573 be/3 root        0.00 B/s    7.10 K/s  0.00 %  0.19 % [jbd2/sda5-8]
+   3320 be/4 pal         0.00 B/s   28.41 K/s  0.00 %  0.09 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   8699 be/4 pal         0.00 B/s    3.55 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.10 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.12 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.43 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.37 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   29.48 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.37 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.39 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.72 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.57 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.85 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.57 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.68 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        12.85 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      67.93 K/s
+    546 be/3 root        0.00 B/s   26.42 K/s  0.00 %  0.14 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.74 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   12.77 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.82 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1244.41 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.44 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  120.67 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    7.54 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   45.25 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.64 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.69 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      67.92 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.08 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381531 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   45.28 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.64 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.63 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.51 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   18.78 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.59 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.67 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      15.05 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   45.16 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.61 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.69 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      48.80 K/s
+    546 be/3 root        0.00 B/s   11.26 K/s  0.00 %  0.16 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1357 be/4 www-data    0.00 B/s    3.75 K/s  0.00 %  0.00 % apache2 -k start
+   1747 be/4 _graphit    0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   45.05 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s   15.02 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.61 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.83 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     302.25 M/s
+ 289732 be/4 root        0.00 B/s    0.00 B/s  0.00 % 59.37 % [kworker/u16:0-events_unbound]
+    573 be/3 root        0.00 B/s  177.11 K/s  0.00 %  5.81 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  2.81 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  109.28 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   37.68 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   9062 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.50 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.45 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   18.86 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.42 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.45 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.43 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.28 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.46 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.56 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.73 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.46 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.24 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.47 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      86.32 K/s
+    546 be/3 root        0.00 B/s   41.29 K/s  0.00 %  0.17 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   52.55 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   7528 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//mm11.pal.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.37 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.70 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1086.24 K/s
+    573 be/3 root        0.00 B/s    7.52 K/s  0.00 %  0.21 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  101.48 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   52.62 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.53 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.84 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.56 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   9762 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   49.13 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.77 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.74 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   52.86 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.67 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.64 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.51 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   30.03 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.61 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        11.76 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      37.77 K/s
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1746 be/4 _graphit    0.00 B/s 1091.66 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.68 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.87 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     330.33 K/s
+    573 be/3 root        0.00 B/s   11.26 K/s  0.00 %  0.21 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.11 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 289732 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.08 % [kworker/u16:0-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   9062 be/4 pal         0.00 B/s    0.00 B/s  0.00 %  0.01 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+    341 be/3 root        0.00 B/s  191.44 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.75 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   41.29 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   9071 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.61 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.52 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.42 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.71 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   9762 be/4 pal         0.00 B/s    3.71 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   11.14 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.42 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.49 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.56 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.39 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.52 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        12.86 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      37.78 K/s
+    546 be/3 root        0.00 B/s   18.89 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   18.89 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   12.81 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.50 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     104.36 K/s
+   8998 be/4 pal         0.00 B/s   14.91 K/s  0.00 %  0.08 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  100.63 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s    3.73 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s    8.38 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.05 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1108.10 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.36 % [kworker/u16:2-events_unbound]
+    573 be/3 root        0.00 B/s   18.91 K/s  0.00 %  0.15 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   11.35 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.01 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.82 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   18.86 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.79 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         7.85 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    7.84 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.24 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      45.32 K/s
+    546 be/3 root        0.00 B/s    7.55 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  396.52 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    7.55 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6181 be/4 pal         0.00 B/s   22.66 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//statsdcc.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+   9071 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s    9.79 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        11.48 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     320.32 K/s
+    573 be/3 root        0.00 B/s  120.59 K/s  0.00 %  0.22 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.13 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [sealfs]
+    341 be/3 root        0.00 B/s  391.92 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.77 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   1746 be/4 _graphit    0.00 B/s 1217.20 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   15.07 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8944 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % python /opt/pal/gallium/lib/power_status_analyzer/power_status_analyzer_node.py
+ 385911 be/4 pal         0.00 B/s    9.76 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.85 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   11.31 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.83 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.40 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   48.97 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.33 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.53 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.52 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   52.61 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.46 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.54 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      41.40 K/s
+    546 be/3 root        0.00 B/s    3.76 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   52.69 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.47 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.63 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      63.86 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.14 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.07 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  108.93 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   52.59 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 385911 be/4 pal         0.00 B/s   10.46 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.53 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      22.58 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381531 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   41.40 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.48 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.54 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   48.93 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.48 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.57 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   56.57 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.50 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.82 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      52.94 K/s
+    546 be/3 root        0.00 B/s   11.34 K/s  0.00 %  0.14 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   83.18 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.78 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   1746 be/4 _graphit    0.00 B/s  136.12 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   52.94 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.52 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.65 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      25.35 M/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  2.20 % [kworker/u16:2+flush-8:0]
+    573 be/3 root        0.00 B/s    7.54 K/s  0.00 %  0.21 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.11 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  113.08 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   33.92 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s   10.49 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.17 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     277.85 M/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 % 53.72 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.62 % [sealfs]
+   1742 be/4 root        0.00 B/s   11.28 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   30.08 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s   15.04 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.11 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.04 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.57 % [sealfs]
+    341 be/3 root        0.00 B/s   11.32 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   41.49 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.98 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.96 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.50 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   30.00 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.92 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.07 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     142.66 K/s
+    546 be/3 root        0.00 B/s   45.05 K/s  0.00 %  0.15 % [jbd2/sda6-8]
+    573 be/3 root        0.00 B/s   37.54 K/s  0.00 %  0.15 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.08 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   33.79 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s    9.95 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.14 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  109.20 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.77 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   33.89 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.98 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.14 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1008.06 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.75 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   7528 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//mm11.pal.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.07 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        12.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   41.53 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   12.37 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.49 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      41.50 K/s
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.17 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [sealfs]
+   1371 be/4 www-data    0.00 B/s    3.77 K/s  0.00 %  0.00 % apache2 -k start
+   1747 be/4 _graphit    0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   41.50 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.43 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.60 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     221.80 K/s
+    573 be/3 root        0.00 B/s  154.13 K/s  0.00 %  0.19 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.11 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.59 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.50 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.49 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   93.63 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   48.69 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.49 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.36 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.48 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1123.32 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.43 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   41.46 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9071 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.43 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.22 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.36 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   9490 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   33.11 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.36 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.18 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.68 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.24 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      33.13 K/s
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.14 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   44.17 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.36 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.18 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.53 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      86.96 K/s
+    573 be/3 root        0.00 B/s   26.47 K/s  0.00 %  0.14 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.81 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.46 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.46 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1283.07 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.43 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.07 % [sealfs]
+    341 be/3 root        0.00 B/s  111.90 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   33.57 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.73 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.46 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.31 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.26 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      15.07 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   45.20 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s   15.07 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.20 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.94 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.41 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1746 be/4 _graphit    0.00 B/s 1071.05 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   48.18 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    7.41 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8998 be/4 pal         0.00 B/s    7.41 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.83 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.71 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.07 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     223.13 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.19 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s   26.03 K/s  0.00 %  0.14 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s    7.44 K/s  0.00 %  0.10 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+    341 be/3 root        0.00 B/s  145.03 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   40.91 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.72 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 385911 be/4 pal         0.00 B/s    9.85 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.05 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   9762 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   45.29 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.99 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1452.91 K/s
+ 347892 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.47 % [kworker/u16:4-events_unbound]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  416.73 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.75 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   48.81 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.94 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.06 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.51 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   48.80 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.00 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.34 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.51 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   48.82 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   37.55 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.25 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.47 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     124.46 K/s
+    573 be/3 root        0.00 B/s    7.54 K/s  0.00 %  0.16 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s   15.09 K/s  0.00 %  0.14 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.08 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   30.17 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   9062 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.47 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.50 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [sealfs]
+    341 be/3 root        0.00 B/s  105.00 K/s  0.00 %  0.00 % systemd-journald
+   1742 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   11.25 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9071 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.34 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.34 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.49 K/s
+ 381531 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   18.73 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.49 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.32 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.39 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   18.85 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.36 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.35 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      41.34 K/s
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.07 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1377 be/4 www-data    0.00 B/s    3.76 K/s  0.00 %  0.00 % apache2 -k start
+   3320 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.33 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.08 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     190.39 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.22 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.32 K/s  0.00 %  0.10 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s    7.32 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8944 be/4 pal         0.00 B/s    3.66 K/s  0.00 %  0.00 % python /opt/pal/gallium/lib/power_status_analyzer/power_status_analyzer_node.py
+ 385911 be/4 pal         0.00 B/s   10.07 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.43 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.50 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  105.04 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.32 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.48 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     301.37 M/s
+ 347892 be/4 root        0.00 B/s    0.00 B/s  0.00 % 56.55 % [kworker/u16:4-flush-8:0]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  1.78 % [sealfs]
+   3320 be/4 pal         0.00 B/s   15.08 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.45 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.56 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      15.01 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.92 % [sealfs]
+    341 be/3 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.75 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   30.01 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s   15.01 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.51 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.55 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     161.55 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.36 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s   56.35 K/s  0.00 %  0.34 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.30 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.24 % [sealfs]
+    341 be/3 root        0.00 B/s  105.19 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.76 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   15.03 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s   10.37 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.43 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.10 % [sealfs]
+   1742 be/4 root        0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   11.31 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.52 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.20 % [sealfs]
+    341 be/3 root        0.00 B/s  113.13 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.77 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.44 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1141.62 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.10 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.37 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.38 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.41 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   18.52 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    3.70 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8998 be/4 pal         0.00 B/s    7.41 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.70 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.35 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.85 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     244.79 K/s
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.16 % [jbd2/sda6-8]
+    573 be/3 root        0.00 B/s  173.24 K/s  0.00 %  0.12 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.05 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   3320 be/4 pal         0.00 B/s   22.60 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s   10.65 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.50 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   22.49 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.39 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.45 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.44 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  100.48 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   18.61 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.72 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.44 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.32 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.46 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      26.31 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.31 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9071 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.42 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.36 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.44 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [sealfs]
+    341 be/3 root        0.00 B/s    7.44 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   26.03 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.44 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.72 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.31 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.72 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.48 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     120.08 K/s
+    573 be/3 root        0.00 B/s    7.50 K/s  0.00 %  0.24 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s    7.50 K/s  0.00 %  0.14 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s    7.50 K/s  0.00 %  0.08 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   15.01 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   37.52 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 385911 be/4 pal         0.00 B/s   10.41 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.51 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   30.20 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.47 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.12 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.47 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   93.43 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s    7.47 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.47 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.01 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.13 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1284.01 K/s
+ 347892 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.37 % [kworker/u16:4-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  379.20 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.75 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   15.02 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6181 be/4 pal         0.00 B/s   26.28 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//statsdcc.pal.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.71 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.75 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        11.65 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     331.21 K/s
+    573 be/3 root        0.00 B/s  128.80 K/s  0.00 %  0.24 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s   14.72 K/s  0.00 %  0.14 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   11.04 K/s  0.00 %  0.00 % systemd-journald
+   1357 be/4 www-data    0.00 B/s    3.68 K/s  0.00 %  0.00 % apache2 -k start
+   1746 be/4 _graphit    0.00 B/s 1188.67 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   1747 be/4 _graphit    0.00 B/s    3.68 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   11.04 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 385911 be/4 pal         0.00 B/s   10.32 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.52 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      45.39 K/s
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   7898 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   15.13 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.49 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.44 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.52 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   22.55 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.41 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.85 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1198.98 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.41 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  392.12 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   18.85 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.44 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.44 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   49.07 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   22.65 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.36 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.55 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     108.90 K/s
+    573 be/3 root        0.00 B/s    3.76 K/s  0.00 %  0.14 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s   15.02 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.07 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.55 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s   10.49 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.73 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.56 K/s
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   34.02 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.69 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         8.57 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  112.98 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   52.72 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    8.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        11.65 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.55 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381531 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1746 be/4 _graphit    0.00 B/s 1091.64 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   45.33 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.52 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.60 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.56 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   52.93 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.53 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.73 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     245.41 K/s
+    573 be/3 root        0.00 B/s   11.33 K/s  0.00 %  0.21 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s    7.55 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.11 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1746 be/4 _graphit    0.00 B/s  135.92 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   52.86 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+ 385911 be/4 pal         0.00 B/s   10.52 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.52 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   30.10 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.48 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.61 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.51 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [sealfs]
+    341 be/3 root        0.00 B/s   93.93 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.76 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   26.30 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.51 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+   9071 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.47 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.51 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     233.41 M/s
+ 347892 be/4 root        0.00 B/s    0.00 B/s  0.00 % 42.33 % [kworker/u16:4+flush-8:0]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  1.07 % [sealfs]
+    341 be/3 root        0.00 B/s    7.49 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   52.44 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.75 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.49 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.44 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.37 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      65.51 M/s
+ 347892 be/4 root        0.00 B/s    0.00 B/s  0.00 % 14.24 % [kworker/u16:4-events_unbound]
+   8998 be/4 pal         0.00 B/s    7.35 K/s  0.00 %  1.23 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   77.21 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.68 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   44.12 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+ 385911 be/4 pal         0.00 B/s   10.23 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.68 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        12.06 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     154.40 K/s
+    573 be/3 root        0.00 B/s   22.06 K/s  0.00 %  0.14 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s   40.44 K/s  0.00 %  0.14 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   51.47 K/s  0.00 %  0.05 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s   14.70 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   11.93 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.68 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.72 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.37 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   51.56 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.37 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.66 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.81 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.37 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  103.12 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   44.19 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.37 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.66 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.69 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1011.83 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   40.47 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.36 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.64 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.69 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     201.97 K/s
+    573 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.18 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   11.02 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   33.05 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    7.34 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.34 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9062 be/4 pal         0.00 B/s    3.67 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s    9.63 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.67 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.78 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      51.48 K/s
+    546 be/3 root        0.00 B/s   11.03 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   7898 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   29.42 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8944 be/4 pal         0.00 B/s    3.68 K/s  0.00 %  0.00 % python /opt/pal/gallium/lib/power_status_analyzer/power_status_analyzer_node.py
+   8998 be/4 pal         0.00 B/s    7.35 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.73 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.33 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   30.13 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.29 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.51 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+    341 be/3 root        0.00 B/s   86.72 K/s  0.00 %  0.00 % systemd-journald
+   1742 be/4 root        0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   41.47 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   7528 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//mm11.pal.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.36 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.41 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     313.00 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.12 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   30.17 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.37 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.47 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     109.53 K/s
+    573 be/3 root        0.00 B/s   49.10 K/s  0.00 %  0.14 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.13 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s    7.55 K/s  0.00 %  0.07 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.44 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   9071 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//get_out_of_collision.pal.log
+ 385911 be/4 pal         0.00 B/s   10.38 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.40 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.68 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.35 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.40 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   37.67 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.35 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.49 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.53 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.13 % [sealfs]
+    341 be/3 root        0.00 B/s  109.14 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    3.76 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   3320 be/4 pal         0.00 B/s   26.34 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.53 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.35 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.37 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1478.03 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.49 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   26.33 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.34 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.34 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     252.12 K/s
+    573 be/3 root        0.00 B/s  133.48 K/s  0.00 %  0.18 % [jbd2/sda5-8]
+    546 be/3 root        0.00 B/s    7.42 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+   8998 be/4 pal         0.00 B/s   14.83 K/s  0.00 %  0.11 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s    7.42 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   9062 be/4 pal         0.00 B/s    3.71 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//collision_aware_fjt.pal.log
+ 385911 be/4 pal         0.00 B/s   10.18 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.23 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.56 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   30.23 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.78 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.56 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.19 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.97 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.52 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   1742 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-relay --config=/etc/carbon/carbon.conf --instance 1 --pidfile=/var/run/carbon-relay-1.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   37.62 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.92 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.10 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.32 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  446.67 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s    7.32 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.32 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.65 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.72 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1274.18 K/s
+ 347892 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.44 % [kworker/u16:4-events_unbound]
+    573 be/3 root        0.00 B/s    7.37 K/s  0.00 %  0.14 % [jbd2/sda5-8]
+   8998 be/4 pal         0.00 B/s    7.37 K/s  0.00 %  0.07 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 385911 be/4 pal         0.00 B/s    9.71 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:         9.97 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      33.95 K/s
+    546 be/3 root        0.00 B/s    0.00 B/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   15.09 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s    9.95 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.13 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.54 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s   82.98 K/s  0.00 %  0.00 % systemd-journald
+   9762 be/4 pal         0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/master.log
+   3320 be/4 pal         0.00 B/s   11.32 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.54 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.02 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.77 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.82 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:     210.63 K/s
+    573 be/3 root        0.00 B/s   37.61 K/s  0.00 %  0.19 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  545.39 K/s  0.00 %  0.00 % systemd-journald
+    806 be/4 syslog      0.00 B/s    7.52 K/s  0.00 %  0.00 % rsyslogd -n -iNONE [rs:main Q:Reg]
+   1373 be/4 www-data    0.00 B/s    3.76 K/s  0.00 %  0.00 % apache2 -k start
+   1747 be/4 _graphit    0.00 B/s    3.76 K/s  0.00 %  0.00 % python3 /usr/bin/carbon-cache --config=/etc/carbon/carbon.conf --pidfile=/var/run/carbon-cache.pid --logdir=/var/log/carbon/ start
+   3320 be/4 pal         0.00 B/s   18.81 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.52 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+   9940 be/4 pal         0.00 B/s    3.76 K/s  0.00 %  0.00 % gvfsd-metadata
+ 385911 be/4 pal         0.00 B/s   10.21 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.22 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.39 K/s
+ 381531 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   51.73 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   6165 be/4 pal         0.00 B/s    3.70 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//computer_monitor_control.pal.log
+   8699 be/4 pal         0.00 B/s    3.70 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.39 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.15 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.20 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:    1147.22 K/s
+ 341850 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.44 % [kworker/u16:2-events_unbound]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+ 381530 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s   25.90 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.40 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.17 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.50 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      41.83 K/s
+    546 be/3 root        0.00 B/s   26.62 K/s  0.00 %  0.13 % [jbd2/sda6-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.00 % [sealfs]
+   3320 be/4 pal         0.00 B/s    7.61 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.61 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.45 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+ 386406 be/4 root        0.00 B/s    3.80 K/s  0.00 %  0.00 % python3 /usr/sbin/iotop -qo
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.42 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:       7.57 K/s
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+   3320 be/4 pal         0.00 B/s   15.14 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8998 be/4 pal         0.00 B/s    7.57 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.40 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
+Total DISK READ:         0.00 B/s | Total DISK WRITE:        10.59 M/s
+Current DISK READ:       0.00 B/s | Current DISK WRITE:      95.04 K/s
+    573 be/3 root        0.00 B/s    7.60 K/s  0.00 %  0.08 % [jbd2/sda5-8]
+ 381529 be/4 root        0.00 B/s    0.00 B/s  0.00 %  0.06 % [sealfs]
+    341 be/3 root        0.00 B/s  117.84 K/s  0.00 %  0.00 % systemd-journald
+   3320 be/4 pal         0.00 B/s   19.01 K/s  0.00 %  0.00 % rosout __name:=rosout __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/rosout-1.log
+   8699 be/4 pal         0.00 B/s    3.80 K/s  0.00 %  0.00 % multilog n4 s10485760 /home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9//move_base.pal.log
+   8998 be/4 pal         0.00 B/s    7.60 K/s  0.00 %  0.00 % python3 /opt/pal/gallium/lib/pal_navigation_sm/pose_manager_node.py __name:=pose_manager __log:=/home/pal/.ros/log/90573208-c0d2-11ee-981a-50eb71813ea9/pose_manager-1.log
+ 385911 be/4 pal         0.00 B/s   10.44 M/s  0.00 %  0.00 % python3 /home/pal/Desktop/catkin_ws/install/lib/ros1sealfs/ros1sealfs_image.py
