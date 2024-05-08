@@ -3,9 +3,9 @@ import glob
 import csv
 
 number_re = re.compile(r'\d+\.\d+')
-sealfs_re = re.compile(r'^.+?(?:\d+\.\d+\s+[MkKBb]\/s)\s+(\d+\.\d+\s+[MkKBb]\/s).+ros1sealfs\/ros1sealfs.+$', re.MULTILINE)
+sealfs_re = re.compile(r'^.+?(?:\d+\.\d+\s+[MkKBb]\/s)\s+(\d+\.\d+\s+[MkKBb]\/s).+ros1sealfs.+$', re.MULTILINE)
 
-files = glob.glob("./**/*_io_*.txt")
+files = glob.glob("./TiAGo/*_io_*.txt")
 
 for file_path in files:
     filename = re.split(r'[/\.]', file_path)[-2]
@@ -26,12 +26,16 @@ for file_path in files:
     
     for time in matches:
         unit = time.split(' ')[-1]
+        cur_time = 0
         
         if unit == 'M/s':
-            total += float(time.split(' ')[0]) * 1024
+            cur_time = float(time.split(' ')[0]) * 1024
         elif unit == 'K/s':
-            total += float(time.split(' ')[0])
+            cur_time = float(time.split(' ')[0])
         
+        total += cur_time
+        csv_writer.writerow([file_type, cur_time])
         count += 1
+    
         
-    csv_writer.writerow(['bandwidth_logs', total / float(count)])
+    # csv_writer.writerow(['bandwidth_logs', total / float(count)])

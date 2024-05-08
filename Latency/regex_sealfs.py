@@ -6,7 +6,7 @@ number_re = re.compile(r'\d+\.\d+')
 openvpn_re = re.compile(r'openvpn')
 sealfs_re = re.compile(r'^.+sealfs_write.+$', re.MULTILINE)
 
-files = glob.glob("./**/*sealfs_ftrace*.txt")
+files = glob.glob("./Summit/*sealfs_ftrace*.txt")
 
 for file_path in files:
     filename = re.split(r'[/\.]', file_path)[-2]

@@ -1,0 +1,874 @@
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         0.00 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.60 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.87 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.55 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.31 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     297.38 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       123.52 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     123.52 K/s
+    343 be/3 root        0.00 K/s   96.50 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         0.00 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        30.84 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     138.80 K/s
+   2109 be/4 robot       0.00 K/s   15.42 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.71 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       158.28 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     123.53 K/s
+    343 be/3 root        0.00 K/s  108.09 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+    692 be/4 root        0.00 K/s    7.72 K/s  ?unavailable?  NetworkManager --no-daemon
+   2919 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    7.72 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.42 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      65.51 K/s
+    343 be/3 root        0.00 K/s   11.56 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.55 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.70 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.44 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     131.24 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.16 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       104.34 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      92.75 K/s
+    343 be/3 root        0.00 K/s   81.15 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s   15.46 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.57 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.04 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.62 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     114.23 K/s
+   2109 be/4 robot       0.00 K/s    7.62 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        30.89 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       115.77 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     100.33 K/s
+    343 be/3 root        0.00 K/s   92.61 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.67 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.67 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2315 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_sensors robot_bringup sensors_complete.launch
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        46.28 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     111.84 K/s
+   2919 be/4 robot       0.00 K/s    7.71 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.57 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   19.28 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        96.30 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      96.30 K/s
+    343 be/3 root        0.00 K/s   88.60 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    7.70 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        30.91 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454483 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.28 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     127.27 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.57 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       115.88 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      92.70 K/s
+    343 be/3 root        0.00 K/s   84.98 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454496 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        38.64 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     104.34 K/s
+   2919 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   15.46 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.60 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.87 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        92.68 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     104.27 K/s
+    343 be/3 root        0.00 K/s   88.82 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        26.96 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   3079 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.55 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.70 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        38.64 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     112.06 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.46 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       108.19 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     112.06 K/s
+    343 be/3 root        0.00 K/s   96.60 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.45 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.73 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.32 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     108.20 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.04 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        88.81 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      84.94 K/s
+    343 be/3 root        0.00 K/s   77.22 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.02 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.73 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.29 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     108.05 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.01 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.43 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       108.04 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     108.04 K/s
+    343 be/3 root        0.00 K/s   92.61 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2315 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_sensors robot_bringup sensors_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.16 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.30 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     123.53 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       119.70 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     100.39 K/s
+    343 be/3 root        0.00 K/s   84.95 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.31 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454483 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     131.24 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.20 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.60 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.87 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       104.26 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      92.68 K/s
+    343 be/3 root        0.00 K/s   77.23 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454483 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      92.63 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        38.61 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       123.66 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     100.47 K/s
+    343 be/3 root        0.00 K/s   92.74 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        38.61 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     119.69 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       108.11 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     104.25 K/s
+    343 be/3 root        0.00 K/s   96.53 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.46 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2552 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosmon --name=rosmon_perception robot_bringup perception_complete.launch
+ 454496 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.70 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.70 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        34.74 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     111.94 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       119.11 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      92.22 K/s
+    343 be/3 root        0.00 K/s   84.53 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   3079 be/4 robot       0.00 K/s    3.84 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.53 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.84 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.68 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    7.68 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.73 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        42.50 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     115.92 K/s
+   2919 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2315 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_sensors robot_bringup sensors_complete.launch
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.46 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       104.23 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     104.23 K/s
+    343 be/3 root        0.00 K/s   96.51 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.44 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.71 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        46.31 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     111.93 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   19.30 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.29 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.71 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        96.51 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     104.23 K/s
+    343 be/3 root        0.00 K/s   92.65 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.71 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.16 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     115.80 K/s
+   2919 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        34.74 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454483 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    7.72 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        81.02 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      84.88 K/s
+    343 be/3 root        0.00 K/s   77.16 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.71 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.67 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.67 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        65.74 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     116.01 K/s
+   3079 be/4 robot       0.00 K/s   11.60 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   23.20 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+   2637 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454483 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+ 454513 be/4 robot       0.00 K/s   15.47 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.57 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        92.63 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     104.21 K/s
+    343 be/3 root        0.00 K/s   84.91 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454483 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.31 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     115.83 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        34.69 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.71 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.42 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.85 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        84.95 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      96.53 K/s
+    343 be/3 root        0.00 K/s   81.09 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.73 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        42.53 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     119.85 K/s
+   2919 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   3079 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   19.33 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+   2637 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.00 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s   15.43 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    7.72 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        96.48 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      92.62 K/s
+    343 be/3 root        0.00 K/s   84.90 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2315 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_sensors robot_bringup sensors_complete.launch
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.04 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     100.42 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.44 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       100.34 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     100.34 K/s
+    343 be/3 root        0.00 K/s   92.63 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.16 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     119.68 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        46.33 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+    843 be/4 _chrony     0.00 K/s    7.72 K/s  ?unavailable?  chronyd -F -1
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       108.11 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     111.97 K/s
+    343 be/3 root        0.00 K/s  104.25 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.44 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.71 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     123.42 K/s
+   2109 be/4 robot       0.00 K/s    7.71 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        42.52 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.60 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   11.60 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    7.73 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.85 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        84.94 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      84.94 K/s
+    343 be/3 root        0.00 K/s   77.22 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.17 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.44 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     111.91 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        38.63 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        73.39 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      84.98 K/s
+    343 be/3 root        0.00 K/s   69.53 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.03 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.31 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      92.68 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.03 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        77.22 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      81.08 K/s
+    343 be/3 root        0.00 K/s   69.50 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.03 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.73 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.16 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     111.95 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        34.75 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2315 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_sensors robot_bringup sensors_complete.launch
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        80.90 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      88.60 K/s
+    343 be/3 root        0.00 K/s   77.05 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.43 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        27.03 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     104.25 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454483 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.55 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.70 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.85 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       108.05 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      81.04 K/s
+    343 be/3 root        0.00 K/s   73.32 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.18 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     123.64 K/s
+   2919 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.59 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        88.74 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      88.74 K/s
+    343 be/3 root        0.00 K/s   77.16 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.13 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.42 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.68 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.68 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.87 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.87 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        50.23 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     112.05 K/s
+   2919 be/4 robot       0.00 K/s    7.73 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   15.46 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2552 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_perception robot_bringup perception_complete.launch
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.46 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        81.05 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      84.91 K/s
+    343 be/3 root        0.00 K/s   69.47 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        30.89 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.50 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.67 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.83 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        38.61 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     123.54 K/s
+   2919 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   11.58 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454483 be/4 robot       0.00 K/s   15.44 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        84.95 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      84.95 K/s
+    343 be/3 root        0.00 K/s   77.22 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        19.31 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.58 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      96.47 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       107.99 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      80.99 K/s
+    343 be/3 root        0.00 K/s   73.28 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    7.71 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.43 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        23.14 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s   11.57 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s    7.71 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.53 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.84 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.84 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.84 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2315 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_sensors robot_bringup sensors_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.73 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     112.03 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        42.49 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   15.45 K/s  ?unavailable?  python3 ros1sealfs.py
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        92.56 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:      88.71 K/s
+    343 be/3 root        0.00 K/s   80.99 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         3.86 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.44 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       104.12 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     177.39 K/s
+    343 be/3 root        0.00 K/s   57.85 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   3079 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   19.28 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+   2637 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_interfaces robot_bringup interfaces_complete.launch
+ 454522 be/4 robot       0.00 K/s   11.57 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.33 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.66 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    7.66 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2919 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        15.44 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.86 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:         7.72 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+Total DISK READ:         0.00 K/s | Total DISK WRITE:       119.22 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:     211.51 K/s
+    343 be/3 root        0.00 K/s   76.91 K/s  ?unavailable?  [jbd2/nvme0n1p2-]
+   2919 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  python3 /opt/ros/noetic/bin/rosmaster --core -p 11311 -w 3 __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/master.log
+   2109 be/4 robot       0.00 K/s   15.38 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+   2629 be/4 robot       0.00 K/s    3.85 K/s  ?unavailable?  rosmon --name=rosmon_command_manager robot_bringup command_manager_complete.launch
+ 454513 be/4 robot       0.00 K/s   19.23 K/s  ?unavailable?  python3 ros1sealfs.py
+Total DISK READ:         0.00 K/s | Total DISK WRITE:        11.59 K/s
+Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+   2109 be/4 robot       0.00 K/s    7.72 K/s  ?unavailable?  rosout __name:=rosout __log:=/home/robot/.ros/log/28f569c4-0b76-11ef-bc8b-7fc93b5059c4/rosout-1.log
+ 460196 be/4 root        0.00 K/s    3.86 K/s  ?unavailable?  python3 /usr/sbin/iotop -qok -n 180

@@ -1,0 +1,144 @@
+# tracer: function_graph
+#
+# CPU  DURATION                  FUNCTION CALLS
+# |     |   |                     |   |   |   |
+  6) + 86.904 us   |  sealfs_write [sealfs]();
+  9) + 88.719 us   |  sealfs_write [sealfs]();
+  7) + 89.278 us   |  sealfs_write [sealfs]();
+  6) + 89.822 us   |  sealfs_write [sealfs]();
+  6) + 95.047 us   |  sealfs_write [sealfs]();
+  6) + 89.589 us   |  sealfs_write [sealfs]();
+  6) + 84.546 us   |  sealfs_write [sealfs]();
+  6) + 80.003 us   |  sealfs_write [sealfs]();
+  6) + 92.255 us   |  sealfs_write [sealfs]();
+  6) + 86.170 us   |  sealfs_write [sealfs]();
+  6) + 90.230 us   |  sealfs_write [sealfs]();
+ 12) + 85.399 us   |  sealfs_write [sealfs]();
+  6) + 90.641 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  6) python3-422665 => python3-422676
+ ------------------------------------------
+
+  6) + 84.834 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  6) python3-422676 => python3-422665
+ ------------------------------------------
+
+  6) + 90.895 us   |  sealfs_write [sealfs]();
+  6) + 86.605 us   |  sealfs_write [sealfs]();
+  6) + 82.783 us   |  sealfs_write [sealfs]();
+  6) + 94.452 us   |  sealfs_write [sealfs]();
+ 11) ! 102.517 us  |  sealfs_write [sealfs]();
+  6) + 97.230 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  6) python3-422665 => python3-422676
+ ------------------------------------------
+
+  6) + 96.096 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  9) python3-422665 => python3-422632
+ ------------------------------------------
+
+  9) + 85.094 us   |  sealfs_write [sealfs]();
+  3) + 94.659 us   |  sealfs_write [sealfs]();
+  9) + 93.974 us   |  sealfs_write [sealfs]();
+  8) + 88.735 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  8) python3-422665 => python3-422632
+ ------------------------------------------
+
+  8) + 91.187 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  7) python3-422676 => python3-422665
+ ------------------------------------------
+
+  7) + 80.648 us   |  sealfs_write [sealfs]();
+ 10) + 92.271 us   |  sealfs_write [sealfs]();
+ 10) ! 100.930 us  |  sealfs_write [sealfs]();
+ 10) ! 139.455 us  |  sealfs_write [sealfs]();
+ 10) + 94.720 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  7) python3-422665 => python3-422676
+ ------------------------------------------
+
+  7) + 94.538 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+ 10) python3-422665 => python3-422653
+ ------------------------------------------
+
+ 10) + 98.021 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+ 10) python3-422653 => python3-422665
+ ------------------------------------------
+
+ 10) + 90.028 us   |  sealfs_write [sealfs]();
+ 10) + 83.235 us   |  sealfs_write [sealfs]();
+ 10) + 99.392 us   |  sealfs_write [sealfs]();
+ 10) + 84.683 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  8) python3-422632 => python3-422665
+ ------------------------------------------
+
+  8) + 93.688 us   |  sealfs_write [sealfs]();
+  7) + 88.959 us   |  sealfs_write [sealfs]();
+ 10) + 86.059 us   |  sealfs_write [sealfs]();
+  8) + 90.788 us   |  sealfs_write [sealfs]();
+  1) + 89.405 us   |  sealfs_write [sealfs]();
+  1) + 97.636 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  6) python3-422676 => python3-422632
+ ------------------------------------------
+
+  6) ! 100.485 us  |  sealfs_write [sealfs]();
+ ------------------------------------------
+  7) python3-422676 => python3-422632
+ ------------------------------------------
+
+  7) + 95.067 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  6) python3-422632 => python3-422676
+ ------------------------------------------
+
+  6) + 88.108 us   |  sealfs_write [sealfs]();
+  5) + 87.868 us   |  sealfs_write [sealfs]();
+  2) + 86.673 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  6) python3-422676 => python3-422665
+ ------------------------------------------
+
+  6) + 89.496 us   |  sealfs_write [sealfs]();
+  7) + 91.743 us   |  sealfs_write [sealfs]();
+  2) + 86.277 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  5) python3-422665 => python3-422632
+ ------------------------------------------
+
+  5) + 91.659 us   |  sealfs_write [sealfs]();
+  6) + 86.714 us   |  sealfs_write [sealfs]();
+  2) + 85.919 us   |  sealfs_write [sealfs]();
+  2) + 90.039 us   |  sealfs_write [sealfs]();
+  2) ! 136.609 us  |  sealfs_write [sealfs]();
+  2) + 89.987 us   |  sealfs_write [sealfs]();
+  2) + 86.641 us   |  sealfs_write [sealfs]();
+  2) + 85.999 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  9) python3-422632 => python3-422665
+ ------------------------------------------
+
+  9) + 82.555 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+ 11) python3-435379 => python3-422632
+ ------------------------------------------
+
+ 11) ! 718.874 us  |  sealfs_write [sealfs]();
+ 13) + 94.613 us   |  sealfs_write [sealfs]();
+  2) + 87.206 us   |  sealfs_write [sealfs]();
+  2) + 87.389 us   |  sealfs_write [sealfs]();
+ ------------------------------------------
+  6) python3-422665 => python3-422676
+ ------------------------------------------
+
+  6) + 88.945 us   |  sealfs_write [sealfs]();
+ 11) ! 106.107 us  |  sealfs_write [sealfs]();
+ 13) + 87.969 us   |  sealfs_write [sealfs]();
+  2) + 91.320 us   |  sealfs_write [sealfs]();
